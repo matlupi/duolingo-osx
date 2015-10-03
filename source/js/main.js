@@ -37,7 +37,11 @@ document.addEventListener("DOMContentLoaded", function() {
       key: "r",
       modifiers: "cmd",
       click : function () {
-        location.reload(true);
+        // Reload node-webkit instance
+        win.reload();
+
+        // Native javascript reload event only reloads the page
+        // location.reload(true);
       }
     })
   );
