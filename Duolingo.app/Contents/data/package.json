@@ -1,0 +1,13 @@
+{
+  "main"  : "content/index.html",
+  "name"  : "Duolingo",
+  "window" : {
+    "toolbar"       : false,
+    // "resizable"     : true,
+    // "always-on-top" : false,
+    // "min_width"     : 144,
+    // "min_height"    : 108,
+    "width"         : 1095,
+    "height"        : 600
+  }
+}
