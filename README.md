@@ -1,7 +1,7 @@
 The unofficial Duolingo application will only run if it's in your Applications folder. (The applications source code is included for non Mac users)
 
 **FAQ**:  
-This mac application uses node-webkit to run a web application as a desktop app.  
+This mac application uses [node-webkit](http://nwjs.io/) to run a web application as a desktop app.  
 
 You can watch the following video to findout how I made Duolingo as a Mac application.  
 [![Watch the how to video](http://img.youtube.com/vi/-AszZcClVXA/0.jpg)](https://www.youtube.com/watch?v=-AszZcClVXA)
