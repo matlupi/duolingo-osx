@@ -1,10 +1,6 @@
-The unofficial Duolingo application will only run if it's in your Applications folder. (The applications source code is included for non Mac users)
+The unofficial Duolingo application will only run if it's in your Applications folder. 
+
+If you're not a Mac user the source code is included so you can use [WebDGap](http://webdgap.sourceforge.net/) to convert Duolingo for your OS of choice! However if you plan on integrating audio support please read [this post](https://github.com/mikethedj4/duolingo-osx/issues/1). 
 
 **FAQ**:  
-This mac application uses [node-webkit](http://nwjs.io/) to run a web application as a desktop app.  
-
-You can watch the following video to findout how I made Duolingo as a Mac application.  
-[![Watch the how to video](http://img.youtube.com/vi/-AszZcClVXA/0.jpg)](https://www.youtube.com/watch?v=-AszZcClVXA)
-
-**Author**:  
-This convertion of Duolingo running as a Mac application was done by [michael schwartz](http://mikethedj4.github.io/) using a tool he created called [WebDGap](http://webdgap.sourceforge.net/).
+This unofficial build of Duolingo for Mac was created using [FluidApp](http://fluidapp.com/) which means that You **MUST** be using a 64bit Mac running OS X 10.7 or later.
