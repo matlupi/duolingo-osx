@@ -4,3 +4,5 @@ If you're not a Mac user the source code is included so you can use [WebDGap](ht
 
 **FAQ**:  
 This unofficial build of Duolingo for Mac was created using [FluidApp](http://fluidapp.com/) which means that You **MUST** be using a 64bit Mac running OS X 10.7 or later.
+
+You can show your appreciation by [Donating via SquareCash](https://cash.me/$michaelsboost) and/or [PayPal](https://www.paypal.me/mikethedj4)
